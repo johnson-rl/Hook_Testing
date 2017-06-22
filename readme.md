@@ -9,3 +9,5 @@ This is an app for testing some hooks.  There are many types of hooks.  I will n
 5. And more!
 
 I will now test each type of hook.
+
+1. The Captain says please bring me my wine.  And fails.
