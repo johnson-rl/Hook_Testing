@@ -4,7 +4,7 @@ This is an app for testing some hooks.
 
 ###Github Webhook
 
-Here is the format of a Webhook payload:
+Here is the format of the Webhook payload:
 
 ```
 {
