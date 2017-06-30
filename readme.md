@@ -22,10 +22,18 @@ Here is the format of a github webhook payload
         "message"=>"Hi, it's shivers",
         "timestamp"=>"2017-06-25T16:51:57-07:00",
         "url"=>"https://github.com/johnson-rl/Hook_Testing/commit/30ad91681e31e1d76417fec2b5855df44ba60062",
-        "author"=>{"name"=>"johnson-rl",
-        "email"=>"johnson.rl@gmail.com",
-        "username"=>"johnson-rl"},
-        "committer"=>{"name"=>"johnson-rl", "email"=>"johnson.rl@gmail.com", "username"=>"johnson-rl"},
+        "author"=>
+          {
+            "name"=>"johnson-rl",
+            "email"=>"johnson.rl@gmail.com",
+            "username"=>"johnson-rl"
+          },
+        "committer"=>
+          {
+            "name"=>"johnson-rl",
+            "email"=>"johnson.rl@gmail.com",
+            "username"=>"johnson-rl"
+          },
         "added"=>[],
         "removed"=>[],
         "modified"=>["readme.md"]
